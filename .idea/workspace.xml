@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8173e53c-8e15-4bab-9a6a-c918b0bb50aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/resources/static/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="8173e53c-8e15-4bab-9a6a-c918b0bb50aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +31,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HOJE/Desktop/tttest"
+    "last_opened_file_path": "C:/Users/ffink/OneDrive/바탕 화면/test"
   }
 }]]></component>
   <component name="RunManager">
